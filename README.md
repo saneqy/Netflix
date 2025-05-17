@@ -25,4 +25,4 @@ Este é um clone do Netflix desenvolvido como parte de um projeto pessoal. O pro
 
 # Autores ✍️
 
-Mav - Desenvolvedora Frontend e UI/UX Designer
+Saneqy - Desenvolvedora Frontend e UI/UX Designer
